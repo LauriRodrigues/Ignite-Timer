@@ -34,6 +34,6 @@
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Home Ignite Timer" src="./src/assets/readme/.HomePage.png" width="70%">
+<img alt="Versão Desktop" title="Home Ignite Timer" src="./src/assets/readme/HomePage.png" width="70%">
 
-<img alt="Versão Desktop" title="History Ignite Timer" src="./src/assets/readme/.HistoryPage.png" width="70%">
+<img alt="Versão Desktop" title="History Ignite Timer" src="./src/assets/readme/HistoryPage.png" width="70%">
